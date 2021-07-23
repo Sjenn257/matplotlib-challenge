@@ -1,2 +1,1 @@
-# matplotlib-challenge
-Matplotlib Homework
+# Matplotlib Homework
